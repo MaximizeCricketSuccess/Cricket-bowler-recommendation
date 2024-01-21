@@ -48,12 +48,12 @@ Enter number of dot balls conceded until now: 4
 Predicted Runs: 8.21
 
 ## Future Scopes
-Match Predictions: Extend predictions to match parameters for platforms like Dream 11.
-Video Game Software: Implement the model for cricket video game software.
-Bowler-Batsman Combinations: Incorporate batting styles for improved predictions.
-Ranking System for Bowlers: Provide a ranked list of bowlers based on wicket maximization and run minimization.
+- Match Predictions: Extend predictions to match parameters for platforms like Dream 11.
+- Video Game Software: Implement the model for cricket video game software.
+- Bowler-Batsman Combinations: Incorporate batting styles for improved predictions.
+- Ranking System for Bowlers: Provide a ranked list of bowlers based on wicket maximization and run minimization.
 
 ## References
-GeeksforGeeks
-Dangermouse Cricket - Bowl Strategy
-Regression Analysis with Python
+- GeeksforGeeks - https://www.geeksforgeeks.org/supervised-machine-learning/
+- Dangermouse Cricket - Bowl Strategy - https://www.dangermouse.net/cricket/bowlstrategy.html
+- Regression Analysis with Python - https://realpython.com/linear-regression-in-python/
